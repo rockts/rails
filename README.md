@@ -21,4 +21,3 @@ http://localhost:3000
 ```
 
 [ninghao.net](http://ninghao.net)
-# rails
